@@ -26,5 +26,5 @@ Since the baseline data was provided in the form of a JSON array, D3 was used to
 https://nrm0009-natalie.github.io/javascript-challenge/
 
 
-https://github.com/nrm0009-natalie/javascript-challenge/blob/master/table_of_UFO_sightings.png
+<img src = https://github.com/nrm0009-natalie/javascript-challenge/blob/master/table_of_UFO_sightings.png>
 
